@@ -1,0 +1,6 @@
+[submodule "fid"]
+	path = fid
+	url = git@github.com:edflow/fid.git
+[submodule "PerceptualSimilarity"]
+	path = PerceptualSimilarity
+	url = git@github.com:edflow/PerceptualSimilarity.git
