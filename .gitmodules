@@ -4,3 +4,6 @@
 [submodule "PerceptualSimilarity"]
 	path = PerceptualSimilarity
 	url = git@github.com:edflow/PerceptualSimilarity.git
+[submodule "alphapose_callback"]
+	path = alphapose_callback
+	url = git@github.com:edflow/alphapose_callback.git
