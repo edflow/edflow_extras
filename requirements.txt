@@ -1,0 +1,3 @@
+git+git://github.com/edflow/alphapose_callback@master#egg=alphapose_callback
+git+git://github.com/edflow/fid@master#egg=fid
+git+git://github.com/edflow/PerceptualSimilarity@master#egg=perceptual_similarity
